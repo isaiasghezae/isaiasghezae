@@ -15,6 +15,8 @@
 [![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
 [![tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/isaiasghezae)
 [![shiny](https://img.shields.io/badge/shiny-black?style=for-the-badge&logo=r)](https://github.com/isaiasghezae)
+[![Quarto](https://img.shields.io/badge/quarto-black?style=for-the-badge&logo=jupyter)](https://github.com/isaiasghezae)
+[![Quarto](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/isaiasghezae)
 [![Plotly Dash](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)](https://github.com/isaiasghezae)
 
 
