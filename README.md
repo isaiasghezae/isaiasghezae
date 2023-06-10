@@ -12,6 +12,7 @@
 [![Streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/isaiasghezae)
 [![Plotly Dash](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)](https://github.com/isaiasghezae)
 [![shiny](https://img.shields.io/badge/shiny-black?style=for-the-badge&logo=r)](https://github.com/isaiasghezae)
+[![sqlite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/isaiasghezae)
 [![reveal.js](https://img.shields.io/badge/reveal.js-black?style=for-the-badge&logo=reveal.js)](https://github.com/isaiasghezae)
 [![D3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js)](https://github.com/isaiasghezae)
 [![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
