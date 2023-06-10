@@ -5,9 +5,10 @@
 [![LaTeX](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)](https://github.com/isaiasghezae)
 
 ### Technologies & Frameworks
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/isaiasghezae)
+[![Flask](https://img.shields.io/badge/quarto-black?style=for-the-badge&logo=quarto)](https://github.com/isaiasghezae)
 [![Streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/isaiasghezae)
 [![D3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js)](https://github.com/isaiasghezae)
+[![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
 [![tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/isaiasghezae)
 [![igraph](https://img.shields.io/badge/shiny-black?style=for-the-badge&logo=r)](https://github.com/isaiasghezae)
 [![Plotly Dash](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)](https://github.com/isaiasghezae)
