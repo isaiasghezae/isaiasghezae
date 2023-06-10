@@ -5,16 +5,18 @@
 [![LaTeX](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)](https://github.com/isaiasghezae)
 
 ### Technologies & Frameworks
-[![Flask](https://img.shields.io/badge/quarto-black?style=for-the-badge&logo=quarto)](https://github.com/isaiasghezae)
-[![Streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/isaiasghezae)
-[![D3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js)](https://github.com/isaiasghezae)
-[![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
-[![tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/isaiasghezae)
-[![igraph](https://img.shields.io/badge/shiny-black?style=for-the-badge&logo=r)](https://github.com/isaiasghezae)
-[![Plotly Dash](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)](https://github.com/isaiasghezae)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/isaiasghezae)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/isaiasghezae)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/isaiasghezae)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/isaiasghezae)
+[![Streamlit](https://img.shields.io/badge/streamlit-black?style=for-the-badge&logo=streamlit)](https://github.com/isaiasghezae)
+[![reveal.js](https://img.shields.io/badge/reveal.js-black?style=for-the-badge&logo=reveal.js)](https://github.com/isaiasghezae)
+[![D3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js)](https://github.com/isaiasghezae)
+[![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
+[![tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/isaiasghezae)
+[![shiny](https://img.shields.io/badge/shiny-black?style=for-the-badge&logo=r)](https://github.com/isaiasghezae)
+[![Plotly Dash](https://img.shields.io/badge/plotly-black?style=for-the-badge&logo=plotly)](https://github.com/isaiasghezae)
+
 
 
 <p align="center">
