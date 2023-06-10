@@ -17,7 +17,11 @@
 [![D3.js](https://img.shields.io/badge/d3.js-black?style=for-the-badge&logo=d3.js)](https://github.com/isaiasghezae)
 [![Observable](https://img.shields.io/badge/observable-black?style=for-the-badge&logo=observable)](https://github.com/isaiasghezae)
 [![tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/isaiasghezae)
+[![pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/isaiasghezae)
+[![seaborn](https://img.shields.io/badge/seaborn-black?style=for-the-badge&logo=python)](https://github.com/isaiasghezae)
 [![Quarto](https://img.shields.io/badge/quarto-black?style=for-the-badge&logo=jupyter)](https://github.com/isaiasghezae)
+[![CodePen](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen)](https://github.com/isaiasghezae)
+[![Replit](https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit)](https://github.com/isaiasghezae)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/isaiasghezae)
 
 
