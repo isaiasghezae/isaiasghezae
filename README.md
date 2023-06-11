@@ -26,7 +26,7 @@
 
 ### Currently Learning:
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/isaiasghezae)
-[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/isaiasghezae)
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/isaiasghezae)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/isaiasghezae)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/isaiasghezae)
 
