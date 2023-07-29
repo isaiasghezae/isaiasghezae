@@ -29,6 +29,7 @@
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/isaiasghezae)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/isaiasghezae)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/isaiasghezae)
+[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/isaiasghezae)
 
 <p align="center">
   <a href="https://github.com/isaiasghezae">
