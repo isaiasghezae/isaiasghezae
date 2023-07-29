@@ -22,8 +22,8 @@
 [![Quarto](https://img.shields.io/badge/quarto-black?style=for-the-badge&logo=jupyter)](https://github.com/isaiasghezae)
 [![CodePen](https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen)](https://github.com/isaiasghezae)
 [![Replit](https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit)](https://github.com/isaiasghezae)
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/isaiasghezae)
 [![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI)](https://github.com/isaiasghezae)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/isaiasghezae)
 
 ### Currently Learning:
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/isaiasghezae)
