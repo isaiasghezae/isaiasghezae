@@ -25,7 +25,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI)](https://github.com/isaiasghezae)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/isaiasghezae)
 
-### Currently Learning:
+### Currently Learning (or will learn when I have the free time):
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/isaiasghezae)
 [![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/isaiasghezae)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/isaiasghezae)
